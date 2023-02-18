@@ -42,7 +42,7 @@ class CrosstoolNg < Formula
 
   on_macos do
     depends_on "bash"
-    depends_on "coreutils"
+    depends_on "heidaren0000/mytap/coreutils"
     depends_on "gawk"
     depends_on "gnu-sed"
     depends_on "grep"
